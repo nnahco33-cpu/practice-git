@@ -1,1 +1,2 @@
 security jouney start
+security mindset start
